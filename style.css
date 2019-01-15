@@ -1,0 +1,54 @@
+.navbar-text {
+	margin-top: 18px;
+	font-size: 18px;
+	color: black;
+}
+.navbar-right a {
+	color: grey;
+}
+.row1 {
+	background-image: url(mountains.jpg);
+	height: 90vh;
+	background-size: cover;
+}
+.senka {
+	background-color: rgba(55, 105, 186,0.55);
+	height: 100%;
+	width: 100%;
+}
+ .b h1,.b p {
+ 	color: white;
+ 	
+ }
+ .b h1 {
+ 	margin-top: 80px;
+ 	font-size: 80px;
+ }
+ .btn1 {
+ 	background-color: rgba(55, 105, 186,0.55);
+ 	color: white;
+ }
+ .slk {
+ 	margin-top: 20px;
+ }
+ .row2 {
+ 	height: 27vh;
+ 	background-color: rgb(73, 77, 84);
+ }
+ .btn2 {
+ background-color: rgba(55, 105, 186,0.55);
+ 	color: white;
+ }
+ .row2 form {
+ 	margin-top: 70px;
+ }
+ .row3 .dl {
+ 	margin-top: 40px;
+ }
+ hr {
+ 	border-color: grey;
+ 	width: 300px;
+ }
+ .row4 {
+ 	background-color: rgb(211, 220, 237);
+ }
